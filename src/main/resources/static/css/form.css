@@ -38,6 +38,12 @@ h1 {
     text-align: center;
 }
 
+h3 {
+    font-size: 1rem;
+    color: #fff;
+    text-align: center;
+}
+
 .inputbox {
     position: relative;
     margin: 20px 0;
